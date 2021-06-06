@@ -7,3 +7,7 @@ I am an roblox lego hack owner.
 Skills: Lua / C# & C++ (Little bit of c++)
 
 - 😎 Trusted Lua developer
+- 😉 Dark hub community developer
+- 🎮 Roblox game developer
+- 💻 Roblox / Visual Studio UI Designer
+- ✔ Verified lua developer
